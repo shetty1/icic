@@ -668,7 +668,7 @@ public class Usermaincode {
     }
 }
 
-20.Calculate Average – Hash Map
+20.Calculate Average Â– Hash Map
 **********************************
 import java.util.HashMap;
 import java.util.Scanner;
@@ -1004,7 +1004,7 @@ return c;
 }
 }
 
-34.Count Vowels   (“countVowels”)
+34.Count Vowels   (Â“countVowelsÂ”)
 *************************************************************************************   avinash/3
 public class Main {
 public static void main(String[] args) {
@@ -3315,7 +3315,7 @@ public class main13{
     	return DAY_OF_MONTH;
      }}
 
-102.Month Name   (“getMonthName”)
+102.Month Name   (Â“getMonthNameÂ”)
 *******************************************************************************************   01-06-82/JUNE
 
 import java.text.ParseException;
@@ -3400,7 +3400,7 @@ System.out.println(res);
 }
 }
 
-105.Negative String  (“negativeString”)
+105.Negative String  (Â“negativeStringÂ”)
 ***********************************************************  This is just a misconception
 import java.util.StringTokenizer;
 public class Main {
@@ -3722,7 +3722,7 @@ return b;
 }
 }
 
-117.Phone Number Validator  (“validatePhoneNumber”)
+117.Phone Number Validator  (Â“validatePhoneNumberÂ”)
 ***************************************************  265-265-7777
 public class UserMainCode
 {
@@ -3968,7 +3968,7 @@ return w;
 }
 }
 
-125.Regular Expression – 2 (Age Validator)-(ValidateAge)
+125.Regular Expression Â– 2 (Age Validator)-(ValidateAge)
 ******************************************************
 import java.util.HashMap;
 import java.util.Iterator;
@@ -4004,7 +4004,7 @@ return q;
 }
 }
 
-126.Regular Expression – 3 (Phone Validator)
+126.Regular Expression Â– 3 (Phone Validator)
 *****************************************************
 import java.util.*;
 public class UserMainCode 
@@ -4446,7 +4446,7 @@ String s=sc.nextLine();
 	}
 	System.out.print( sb.toString());}}
 
-141.Reverse SubString  (“reverseSubstring”)
+141.Reverse SubString  (Â“reverseSubstringÂ”)
 *********************************************************************************************    Rajasthan/2/3
 public class UserMainCode {
 	public static void main(String[] args) {
@@ -4852,7 +4852,7 @@ return sb.toString();
 }
 }
 
-155.String Finder  (“stringFinder”)
+155.String Finder  (Â“stringFinderÂ”)
 ***************************************************************************************************   
 public class Main {
 
@@ -5010,7 +5010,7 @@ public class Main
 	}
 }
 
-160.String processing – Long + Short + Long
+160.String processing Â– Long + Short + Long
 ********************************************************************
 import java.util.StringTokenizer;
 
@@ -5278,7 +5278,7 @@ public class UserMainCode
 	}
 }
 
-171.Strings – Unique & Existing Characters (replaceplus)
+171.Strings Â– Unique & Existing Characters (replaceplus)
 **************************************************
 import java.util.Scanner;
 public class Main {
@@ -6338,10 +6338,7 @@ public static boolean passwordValidation(String s1) {
 
 201.Vowel Check  (getVowels)
 ****************************************************   abceiduosp
-public class UserMainCode {
-public static int display(String name){
- 
- 
+
 String s1=name;
 int n1=0,n2=0,n3=0,n4=0,n5=0;
 for(int i=0;i<s1.length();i++){
